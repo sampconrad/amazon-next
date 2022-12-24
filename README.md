@@ -1,3 +1,13 @@
+# Amazon-next
+
+Demo: https://sampconrad-amazon.netlify.app/
+
+## About
+
+Amazon clone built with NEXT.Js, Redux, Firebase, Auth.Js & Tailwind CSS.
+
+![preview](./preview.png)
+
 # Installation Steps
 
 ## Using npm
@@ -17,5 +27,3 @@ Run commands
 2. `yarn install`
 
 3. `yarn run dev`
-
-![preview](./preview.png)
