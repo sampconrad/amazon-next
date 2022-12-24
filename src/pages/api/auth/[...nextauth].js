@@ -10,6 +10,7 @@ export const authOptions = {
 		}),
 		// ...add more providers here
 	],
+	secret: "THIS_IS_NEEDED_FOR_PRODUCTION",
 };
 
 export default NextAuth(authOptions);
